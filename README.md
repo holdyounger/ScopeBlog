@@ -5,6 +5,7 @@
 
 
 > 使用当前分支作为博客图床
+> 主页：https://github.com/holdyounger/ScopeBlog/tree/master
 
 ## Author
 
