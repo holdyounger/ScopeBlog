@@ -332,7 +332,7 @@
 # 脚本
 
 1. [Wiki自动更新脚本](https://github.com/holdyounger/ScopeBlog/issues/85)
-
+2. [Linux 命令脚本 · Issue #170 · holdyounger/ScopeBlog](https://github.com/holdyounger/ScopeBlog/issues/170)
 
 
 # 计算机英语
