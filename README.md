@@ -90,7 +90,7 @@
 # :star: 开源项目使用
 
 1. [使用 osquery 查询系统uuid和系统信息 · Issue #175 · holdyounger/ScopeBlog](https://github.com/holdyounger/ScopeBlog/issues/175)
-2. 
+2. [Faran-17/Windows-Internals: Important notes and topics on my journey towards mastering Windows Internals](https://github.com/Faran-17/Windows-Internals)
 
 
 
