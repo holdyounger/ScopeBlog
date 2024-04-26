@@ -47,6 +47,13 @@
 
 <img src="images/README/memreduct.png" alt="img" style="zoom:100%;" />
 
+## StarList
+
+1. [Windbg](https://github.com/stars/holdyounger/lists/windbg)：Windows Dbg 调试分享以及扩展插件的收录
+2. [Windows](https://github.com/stars/holdyounger/lists/windows)：截止目前为止，分类中最多项目的 List。包括但不限于 Windows 工具、Hook、文章等等。
+3. [POC](https://github.com/stars/holdyounger/lists/poc)：收集的漏洞相关 POC
+4. [Windows Tools](https://github.com/stars/holdyounger/lists/windows-tools)：此工具非彼工具，除了一些 Windows 开发使用中可能会用到的工具，也有开发中需要用到的一些 开源静态库 项目，如 libssh2、libzip 等。
+
 # 🚅 参赛经历
 
 ## 声网前端
@@ -90,7 +97,9 @@
 # :star: 开源项目使用
 
 1. [使用 osquery 查询系统uuid和系统信息 · Issue #175 · holdyounger/ScopeBlog](https://github.com/holdyounger/ScopeBlog/issues/175)
+   跨平台系统信息查询软件，内置缓存数据库，适合用在频繁查询系统信息场景。
 2. [Faran-17/Windows-Internals: Important notes and topics on my journey towards mastering Windows Internals](https://github.com/Faran-17/Windows-Internals)
+   一个程序员的 Windows 学习笔记，个人认为其文章水平质量较高。对新手友好。
 
 
 
