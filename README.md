@@ -15,7 +15,7 @@
 
 
 
-本文转自 [🏠 Wiki](holdyounger.github.io),可直接访问 [🏠 Wiki](holdyounger.github.io)
+本文转自 [🏠 Wiki](https://holdyounger.github.io),可直接访问
 
 
 
@@ -160,6 +160,18 @@ https://codemachine.com/index.html?__im-FarDSYvs=4356232983259770696
 一款使用体验极佳的 PE 查看工具，对 Windows 初学者非常友好。
 
 <img src="README/image-20251223164002521.png" alt="PE-Bear截图" style="zoom:50%;display:float" />
+
+
+
+
+
+## 网站推荐
+
+### Exploit
+
+这里有各种各样的汇编代码任你挑选
+
+[Windows/x64 - Dynamic Null-Free WinExec PopCalc Shellcode (205 Bytes) - Windows\_x86-64 shellcode Exploit](https://www.exploit-db.com/exploits/49819)
 
 
 
