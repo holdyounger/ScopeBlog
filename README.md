@@ -4,7 +4,7 @@
 </p>
 
 
-> 写在最前，本文是个人学习过程中整理的文档概要，涉及但不限于 Qt|C++|Linux|Windows 等方向。另外整理了看到的一些开源项目，供参考和学习。
+> 写在最前，本文是个人学习过程中整理的文档概要，涉及但不限于 `Qt|C++|Linux|Windows` 等方向。另外整理了看到的一些开源项目，供参考和学习。
 
 ## Author
 
@@ -23,7 +23,7 @@
 
 # 开源项目推荐
 
-## 1. [visiky/resume: 🚀 在线简历生成器](https://github.com/visiky/resume)
+## [visiky/resume: 🚀 在线简历生成器](https://github.com/visiky/resume)
 
 > :star: Starred 2k
 >
@@ -38,7 +38,7 @@
 
 <img src="README/resume.png" alt="resume" style="zoom: 50%;" />
 
-## 2. [henrypp/memreduct](https://github.com/henrypp/memreduct)
+## [henrypp/memreduct](https://github.com/henrypp/memreduct)
 
 > :star: Starred 2.9k
 >
@@ -52,7 +52,7 @@
 
 [sunface/rust-course: “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book](https://github.com/sunface/rust-course)
 
-![img](README/banner.jpg)
+<img src="README/banner.jpg" alt="img" style="zoom:50%;" />
 
 在这里你可以系统的学习 Rust 语法的特性。
 
@@ -74,6 +74,9 @@
 
 
 # 🐥社区推荐
+
+Stack Overflow - Where Developers Learn, Share, & Build Careers
+https://stackoverflow.com/
 
 深信服社区
 https://bbs.sangfor.com.cn/plugin.php?id=info:index#?orderby=dateline&type=index&page=1&init
@@ -152,11 +155,11 @@ https://codemachine.com/index.html?__im-FarDSYvs=4356232983259770696
 
 ### PE-Bear
 
-[hasherezade/pe-bear: Portable Executable reversing tool with a friendly GUI](https://github.com/hasherezade/pe-bear)
+<img src="README/1766479112359.png" alt="1766479112359" style="zoom: 10%;float:left;border-radius:5px;!import" />[hasherezade/pe-bear: Portable Executable reversing tool with a friendly GUI](https://github.com/hasherezade/pe-bear)
 
 一款使用体验极佳的 PE 查看工具，对 Windows 初学者非常友好。
 
-<img src="README/1766479112359.png" alt="1766479112359" style="zoom:50%;" />![PE-Bear截图](README/image-20251223164002521.png)
+<img src="README/image-20251223164002521.png" alt="PE-Bear截图" style="zoom:50%;display:float" />
 
 
 
